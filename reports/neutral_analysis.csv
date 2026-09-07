@@ -1,0 +1,76 @@
+tweet,label,tweet_clean,predicted_label,confidence,correct
+alomo company don dey naija na,neutral,alomo company don dey naija na,negative,0.35024760485160744,False
+na music dem dey show,neutral,na music dem dey show,positive,0.3597398496690316,False
+nor be una dey find proof,neutral,nor be una dey find proof,positive,0.36120875215314263,False
+i wan sleep abeg,neutral,i wan sleep abeg,negative,0.3720474950682399,False
+lol he say na winning mentality for draw wey una manage get oo,neutral,lol he say na winning mentality for draw wey una manage get oo,positive,0.3773393517716534,False
+i dey tells una draw bois dey wait for sef,neutral,i dey tells una draw bois dey wait for sef,neutral,0.38491385317081794,True
+even short time here na from k sef,neutral,even short time here na from k sef,negative,0.40753560464976857,False
+wey don sleep,neutral,wey don sleep,neutral,0.4097178008054478,True
+guy abeg where the baba dey abeg,neutral,guy abeg where the baba dey abeg,neutral,0.4128289169287373,True
+una go chop am this season sha make e start,neutral,una go chop am this season sha make e start,positive,0.41791613061347677,False
+na wetin the person fit buy na,neutral,na wetin the person fit buy na,neutral,0.42156662917116156,True
+e be like say na the wrong ch me i dey o,neutral,e be like say na the wrong ch me i dey o,negative,0.4266514851770423,False
+na who dey alive dey apply for visa,neutral,na who dey alive dey apply for visa,positive,0.43051769451854366,False
+you wan hear wetin dey happen for room,neutral,you wan hear wetin dey happen for room,negative,0.43622674503151326,False
+hahahahacoz e be like na wetin you been wan do oh,neutral,hahahahacoz e be like na wetin you been wan do oh,positive,0.4427010522093657,False
+lol na benin you dey o anyway im not aware of any ig account but i think you can find an errand service to pick it up for you,neutral,lol na benin you dey o anyway im not aware of any ig account but i think you can find an errand service to pick it up for you,positive,0.4436465389202537,False
+lmao you dey tacha cartel na,neutral,lmao you dey tacha cartel na,negative,0.44712485431867066,False
+you better tell us if na u e dey happen to,neutral,you better tell us if na u e dey happen to,neutral,0.44836416849887517,True
+orange room na for owerri na,neutral,orange room na for owerri na,neutral,0.45525428980590943,True
+the one wey dey do you sha,neutral,the one wey dey do you sha,neutral,0.4586886375141486,True
+sheybi na film na ‍️,neutral,sheybi na film na ️,neutral,0.4607663326632335,True
+my guy dey de list o,neutral,my guy dey de list o,neutral,0.46101698329242097,True
+just tey dey for this week oh,neutral,just tey dey for this week oh,positive,0.464351146109806,False
+how she dey feel if she dey see this pikin,neutral,how she dey feel if she dey see this pikin,positive,0.46804346319631807,False
+me sef na human being,neutral,me sef na human being,positive,0.468852068029599,False
+omo na who popo catch na him b criminal,neutral,omo na who popo catch na him b criminal,neutral,0.4730474768430762,True
+e con thief the money them no lie them no just dey correct with wetin him go steal,neutral,e con thief the money them no lie them no just dey correct with wetin him go steal,negative,0.4733638630591083,False
+were una dey see this soap,neutral,were una dey see this soap,negative,0.4742432141934294,False
+we dey on with x for studio and we go dey ask dem question wey concern their kind music edmtune in,neutral,we dey on with x for studio and we go dey ask dem question wey concern their kind music edmtune in,negative,0.4768906199445196,False
+pills don dey market to do am since,neutral,pills don dey market to do am since,positive,0.4770673083068899,False
+dem dey know whu dem de bail at any pointin tym,neutral,dem dey know whu dem de bail at any pointin tym,neutral,0.47995086579445695,True
+funny i dont even know her bro yesterday was the first time i saw her picture she is not fam na her husband me and her run matter sef,neutral,funny i dont even know her bro yesterday was the first time i saw her picture she is not fam na her husband me and her run matter sef,positive,0.4800659389891244,False
+the house wey he dey scot now,neutral,the house wey he dey scot now,negative,0.4829527648096175,False
+na wen soup hot na im you take da chop am,neutral,na wen soup hot na im you take da chop am,positive,0.48668706527300193,False
+is like want depression to catch me before he see me vbank i get vtarget i get betway sef i dey inside even video sef i do bikooooooo naaaaa,neutral,is like want depression to catch me before he see me vbank i get vtarget i get betway sef i dey inside even video sef i do bikooooooo naaaaa,negative,0.4950625132296918,False
+brought out soups omo na block industry oh n light no dey sha had to collect meat from stew then add am small banana as i dey struggle to cut out soup,neutral,brought out soups omo na block industry oh n light no dey sha had to collect meat from stew then add am small banana as i dey struggle to cut out soup,negative,0.4952851879560858,False
+don don don don foxy i remember when we used to call him sango afolabi sha has to do thanksgiving for his glow up tbh‍️,neutral,don don don don foxy i remember when we used to call him sango afolabi sha has to do thanksgiving for his glow up tbh️,positive,0.4984464672347029,False
+e pass sef e rich oga zayyana days sir alhaji muhammad gajo,neutral,e pass sef e rich oga zayyana days sir alhaji muhammad gajo,positive,0.5006023338977922,False
+the mumu na bamteddy fan since e nor blow he wan dey insult laycon wey don blow clown,neutral,the mumu na bamteddy fan since e nor blow he wan dey insult laycon wey don blow clown,negative,0.5036314529085713,False
+hin go reach my side too,neutral,hin go reach my side too,positive,0.5112543092899583,False
+oooh baby please please she no be average her body na savage keshi baby rora shea dia dia ko roraah,neutral,oooh baby please please she no be average her body na savage keshi baby rora shea dia dia ko roraah,positive,0.5167393639622129,False
+which kain boss how i go see k chop today like this shey space still dey for your site,neutral,which kain boss how i go see k chop today like this shey space still dey for your site,positive,0.5214654290325706,False
+na wetin una dey talk,neutral,na wetin una dey talk,neutral,0.539227809503144,True
+i wan comot teeth,neutral,i wan comot teeth,neutral,0.548036415895201,True
+braaaa i nor know o as dem dey half time for euros qualifiers na make me change channel,neutral,braaaa i nor know o as dem dey half time for euros qualifiers na make me change channel,positive,0.5506486371013828,False
+ebs still dey,neutral,ebs still dey,neutral,0.5512948327661416,True
+only one person is go ne evicted its lyk dis na ur first time of watching bbnaija,neutral,only one person is go ne evicted its lyk dis na ur first time of watching bbnaija,negative,0.5588766853128865,False
+this one na normal thing for street na,neutral,this one na normal thing for street na,negative,0.5678613335558719,False
+ok please its a joke o dont send account number or ask how cause me sef no know anything i never see k before sef where i wan see million,neutral,ok please its a joke o dont send account number or ask how cause me sef no know anything i never see k before sef where i wan see million,negative,0.5831081724513268,False
+to return the brideprice she paid on your head or for new wife wey you dey plan go marry,neutral,to return the brideprice she paid on your head or for new wife wey you dey plan go marry,negative,0.5834995808923981,False
+ozo think say because him na fine boy automatically dem go always reason am dem carry am handicap and o housemates where like you dont have the facilities for that big man,neutral,ozo think say because him na fine boy automatically dem go always reason am dem carry am handicap and o housemates where like you dont have the facilities for that big man,negative,0.5908369228929012,False
+una governor said him don do roads finish wan enter airport gon buy jet,neutral,una governor said him don do roads finish wan enter airport gon buy jet,negative,0.5919398802748179,False
+na so na so na so,neutral,na so na so na so,neutral,0.6019200444141072,True
+and go dey do like tom and jerry uppandan spectators go dey comment ratings go dey pile me i just need,neutral,and go dey do like tom and jerry uppandan spectators go dey comment ratings go dey pile me i just need,negative,0.607071172758234,False
+abeg wetin be the update on pulisic and ziyech are they already back from injury or its fitness or yet to train at all im lost on them,neutral,abeg wetin be the update on pulisic and ziyech are they already back from injury or its fitness or yet to train at all im lost on them,neutral,0.63076025409003,True
+i bin wan ask too but i no want chop block,neutral,i bin wan ask too but i no want chop block,negative,0.6340339456541199,False
+see abeg make una answer this questionwhich bank in nigeria is the best put mouth this mata,neutral,see abeg make una answer this questionwhich bank in nigeria is the best put mouth this mata,positive,0.652445005088066,False
+where dem dey abeg,neutral,where dem dey abeg,neutral,0.6669460679645154,True
+men biko how much will be enough for you to barb your hair and look good ladies tag a guy and pay for him no be only men go dey pay una bills i know some women will want to tag some + men wey don go bald you will be disqualified ️,neutral,men biko how much will be enough for you to barb your hair and look good ladies tag a guy and pay for him no be only men go dey pay una bills i know some women will want to tag some + men wey don go bald you will be disqualified ️,negative,0.6710972499899842,False
+if i come pierce my tongue dem go dey ask weda i dey give for free,neutral,if i come pierce my tongue dem go dey ask weda i dey give for free,negative,0.6714020488514035,False
+lmfao guy im as shook as you are na me dey find am for pm na why,neutral,lmfao guy im as shook as you are na me dey find am for pm na why,positive,0.6726781669012872,False
+balikis no sabi kiss omowumi don do abortions iya abiye sef never born even morenikeji never get partner ifelodun don break up wetin we never see for our street even excellent sef dey carryover courses,neutral,balikis no sabi kiss omowumi don do abortions iya abiye sef never born even morenikeji never get partner ifelodun don break up wetin we never see for our street even excellent sef dey carryover courses,negative,0.682135746450923,False
+na rejoice na omoh the mama bin just fine,neutral,na rejoice na omoh the mama bin just fine,positive,0.6976625482736202,False
+if preeq see toto e go charge like say e fit do something but if e enter see wetin others have seen e go bow,neutral,if preeq see toto e go charge like say e fit do something but if e enter see wetin others have seen e go bow,negative,0.6979859586715241,False
+omo if na you wetin you go do,neutral,omo if na you wetin you go do,neutral,0.7224741561179271,True
+you know as e dey be na,neutral,you know as e dey be na,neutral,0.7244317940578002,True
+has anyone gone to a store to buy perfumecologne bleu by chanel is now k amourage k creed k na to continue with axe gang o cos im never buying those cheap ass ones they smell like crap even if na oud sef mba,neutral,has anyone gone to a store to buy perfumecologne bleu by chanel is now k amourage k creed k na to continue with axe gang o cos im never buying those cheap ass ones they smell like crap even if na oud sef mba,negative,0.7322980315424146,False
+wetin de ballet,neutral,wetin de ballet,neutral,0.7696797078983099,True
+dear chelsea and manchester united after the whole hustle tension heart attack draws and lost just to qualify for champions league next season if una two like go play rubbish for champions league see yet na ogun go kill una papa,neutral,dear chelsea and manchester united after the whole hustle tension heart attack draws and lost just to qualify for champions league next season if una two like go play rubbish for champions league see yet na ogun go kill una papa,negative,0.7762178956168208,False
+lmao na only reason i fit reason am na there e stop,neutral,lmao na only reason i fit reason am na there e stop,neutral,0.7863386988052744,True
+abi now i no dey put big money for game sef to save tears if e cut,neutral,abi now i no dey put big money for game sef to save tears if e cut,negative,0.7878312712240629,False
+make e sabi cord,neutral,make e sabi cord,positive,0.8347100565062073,False
+italy wetin dey italiate,neutral,italy wetin dey italiate,neutral,0.8707372140445439,True
+fr wetin dey occur,neutral,fr wetin dey occur,neutral,0.8876422559879575,True
+barca yea sorry i dey vex for setien ni he cost them that game wish foolish tactics if he had set up the team properly they would ve offered more at least if they ll lose it wpnt be disgraceful like this the players didnt help themselves too thoall of them dey mad,neutral,barca yea sorry i dey vex for setien ni he cost them that game wish foolish tactics if he had set up the team properly they would ve offered more at least if they ll lose it wpnt be disgraceful like this the players didnt help themselves too thoall of them dey mad,negative,0.8978100119737233,False

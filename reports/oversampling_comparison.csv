@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1,Weighted F1
+Best Tuned Model,0.6767,0.5515,0.6765
+Oversampled Model,0.6813880126182965,0.5436164170627448,0.6770329689914782
