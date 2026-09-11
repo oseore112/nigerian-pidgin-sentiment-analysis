@@ -565,7 +565,7 @@ The Streamlit application can be accessed here:
 Example:
 
 ```text
-https://your-app-name.streamlit.app
+http://10.112.8.154:8501
 ```
 
 ---
